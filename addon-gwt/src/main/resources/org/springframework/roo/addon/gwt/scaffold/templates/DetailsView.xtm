@@ -1,0 +1,17 @@
+package {{=packageName}};
+
+import {{=placePackage}}.ProxyDetailsView;
+{{#imports}}import {{=import}};
+{{/imports}}
+/**
+ * Details view for {{=proxy}}.
+ */
+public interface {{=className}} extends ProxyDetailsView<{{=proxy}}> 
+{
+	void setDelegate(Delegate delegate);
+
+	interface Delegate extends ProxyDetailsView.Delegate
+	{
+		
+	}
+}
