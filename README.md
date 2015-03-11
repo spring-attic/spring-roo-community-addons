@@ -1,1 +1,0 @@
-# spring-roo-community-addons

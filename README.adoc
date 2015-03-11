@@ -1,0 +1,13 @@
+== Spring Roo Community Addons
+
+This Git repository contains addons developed by Spring Roo team, officially endorsed to community partners and no longer maintained by Spring Roo team.
+ 
+The release cycle of these addons is separated from the normal Roo repository so that each addon in the Spring Roo Community repository can be released as part of its own release cycle. 
+ 
+The Spring Roo Community addons are NOT released during the normal Roo release cycle and the Roo CI server does NOT perform any addon releases.
+ 
+== Contributors
+
+We are looking for contributors to keep these addons up-to-date.
+ 
+If you or your organization are interested in helping us and would like to contribute to Roo project by maintaining these addons please contact to: springroo@disid.com
