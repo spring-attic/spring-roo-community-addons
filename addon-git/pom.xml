@@ -14,7 +14,7 @@
     <repositories>
         <repository>
             <id>jgit-repository</id>
-            <url>http://download.eclipse.org/jgit/maven</url>
+            <url>https://download.eclipse.org/jgit/maven</url>
         </repository>
     </repositories>
     <dependencies>
