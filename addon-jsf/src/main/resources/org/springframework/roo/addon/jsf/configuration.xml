@@ -17,7 +17,7 @@
             <repositories>
                 <repository>
                     <id>java.net.m2</id>
-                    <url>http://download.java.net/maven/2</url>
+                    <url>https://download.java.net/maven/2</url>
                 </repository>
             </repositories>
         </jsf-implementation>
@@ -60,7 +60,7 @@
                 <repository>
                     <id>prime-repo</id>
                     <name>PrimeFaces Maven Repository</name>
-                    <url>http://repository.primefaces.org</url>
+                    <url>https://repository.primefaces.org</url>
                     <layout>default</layout>
                 </repository>
             </repositories>

@@ -1,4 +1,4 @@
-<!DOCTYPE ui:UiBinder SYSTEM "http://dl.google.com/gwt/DTD/xhtml.ent">
+<!DOCTYPE ui:UiBinder SYSTEM "https://dl.google.com/gwt/DTD/xhtml.ent">
 <ui:UiBinder xmlns:ui='urn:ui:com.google.gwt.uibinder'
 			 xmlns:g='urn:import:com.google.gwt.user.client.ui'
 			 xmlns:s='urn:import:__TOP_LEVEL_PACKAGE__.client.scaffold.ui'>
@@ -135,10 +135,10 @@
 			<g:HTML>
 				<div class='{style.logos}'>
 					<span>Powered by:</span>
-					<a href='http://code.google.com/webtoolkit/'>
+					<a href='https://code.google.com/webtoolkit/'>
 						<div class='{style.gwtLogo}'></div>
 					</a>
-					<a href='http://www.springsource.org/roo/'>
+					<a href='https://www.springsource.org/roo/'>
 						<div class='{style.rooLogo}'></div>
 					</a>
 				</div>
