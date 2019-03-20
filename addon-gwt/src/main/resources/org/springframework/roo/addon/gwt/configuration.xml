@@ -8,7 +8,7 @@
             <repository>
                 <id>maven.springframework.org.external</id>
                 <name>SpringSource Maven Repository - External Releases</name>
-                <url>http://maven.springframework.org/external</url>
+                <url>https://maven.springframework.org/external</url>
             </repository>
         </repositories>
         <dependencies>
