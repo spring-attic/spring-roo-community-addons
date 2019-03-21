@@ -7,9 +7,9 @@ All code in this project is original work, except as disclosed below.
 -----------------------------------------------------------------------
 
 Licensed Software: JGit
-Software Web Site: http://www.eclipse.org/jgit/
+Software Web Site: https://www.eclipse.org/jgit/
 Effective License: Eclipse Distribution License - v 1.0
-License Info Page: http://www.eclipse.org/org/documents/edl-v10.php
+License Info Page: https://www.eclipse.org/org/documents/edl-v10.php
 
 JGit is used to integrate git functionality into Spring Roo.
 

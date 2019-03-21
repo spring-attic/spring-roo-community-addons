@@ -7,7 +7,7 @@ All code in this project is original work, except as disclosed below.
 -----------------------------------------------------------------------
 
 Licensed Software: Apache Velocity
-Software Web Site: http://velocity.apache.org/
+Software Web Site: https://velocity.apache.org/
 Effective License: Apache License V2.0
 License Info Page: http://www.apache.org/licenses/LICENSE-2.0.txt
 
@@ -17,7 +17,7 @@ provides template services for writing files by the add-on.
 -----------------------------------------------------------------------
 
 Licensed Software: Apache Commons Collections
-Software Web Site: http://commons.apache.org/collections/
+Software Web Site: https://commons.apache.org/collections/
 Effective License: Apache License V2.0
 License Info Page: http://www.apache.org/licenses/LICENSE-2.0.txt
 
@@ -27,7 +27,7 @@ is required by Apache Velocity.
 -----------------------------------------------------------------------
 
 Licensed Software: Apache Commons Logging
-Software Web Site: http://commons.apache.org/logging/
+Software Web Site: https://commons.apache.org/logging/
 Effective License: Apache License V2.0
 License Info Page: http://www.apache.org/licenses/LICENSE-2.0.txt
 
