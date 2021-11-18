@@ -1,3 +1,6 @@
+# VMware has ended active development of this project, this repository will no longer be updated.
+
+
 == Spring Roo Community Addons
 
 This Git repository contains addons developed by Spring Roo team, officially endorsed to community partners and no longer maintained by Spring Roo team.
