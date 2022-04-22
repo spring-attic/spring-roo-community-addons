@@ -117,7 +117,7 @@ public class SolrOperationsImpl implements SolrOperations {
                 root.setAttribute(
                         "xsi:schemaLocation",
                         root.getAttribute("xsi:schemaLocation")
-                                + "  http://www.springframework.org/schema/task http://www.springframework.org/schema/task/spring-task-3.0.xsd");
+                                + "  http://www.springframework.org/schema/task https://www.springframework.org/schema/task/spring-task-3.0.xsd");
             }
             root.appendChild(new XmlElementBuilder("task:annotation-driven",
                     appCtx).addAttribute("executor", "asyncExecutor")

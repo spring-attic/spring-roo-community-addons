@@ -11,16 +11,16 @@
   of the Google Web Toolkit, it should be useful for any XML
   document. It's essentially a union of:
 
-    http://www.w3.org/TR/xhtml1/DTD/xhtml-lat1.ent
-    http://www.w3.org/TR/xhtml1/DTD/xhtml-special.ent
-    http://www.w3.org/TR/xhtml1/DTD/xhtml-symbol.ent
+    https://www.w3.org/TR/xhtml1/DTD/xhtml-lat1.ent
+    https://www.w3.org/TR/xhtml1/DTD/xhtml-special.ent
+    https://www.w3.org/TR/xhtml1/DTD/xhtml-symbol.ent
 
   Sample usage:
   <!DOCTYPE ui:UiBinder
     SYSTEM "https://dl-ssl.google.com/download/gwt/DTD/xhtml.ent">
 
   This file is maintained at
-  <http://google-web-toolkit.googlecode.com/svn/trunk/user/src/com/google/gwt/uibinder/resources/xhtml.ent>. Changes
+  <https://google-web-toolkit.googlecode.com/svn/trunk/user/src/com/google/gwt/uibinder/resources/xhtml.ent>. Changes
   made to it must be propagated to the URL in the sample above.
 -->
 

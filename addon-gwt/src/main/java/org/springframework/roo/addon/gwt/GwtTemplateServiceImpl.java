@@ -115,7 +115,7 @@ public class GwtTemplateServiceImpl implements GwtTemplateService {
                 public InputSource resolveEntity(final String publicId,
                         final String systemId) throws SAXException, IOException {
                     if (systemId
-                            .equals("http://dl.google.com/gwt/DTD/xhtml.ent")) {
+                            .equals("https://dl.google.com/gwt/DTD/xhtml.ent")) {
                         return new InputSource(FileUtils.getInputStream(
                                 GwtScaffoldMetadata.class,
                                 "templates/xhtml.ent"));
